@@ -1,4 +1,6 @@
-Zhukova Alex
-30
-0 pets
-$100000 yearly
+{   
+    "Name": "Zhukova Alex",
+    "Age": 30,
+    "Pets": 0,
+    "Salary": "$100000 yearly"
+} 
